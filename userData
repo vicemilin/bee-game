@@ -1,0 +1,22 @@
+[
+  {
+    "flowers": 2,
+    "maxFlowers": 2
+  },
+  {
+    "flowers": 3,
+    "maxFlowers": 3
+  },
+  {
+    "flowers": 4,
+    "maxFlowers": 4
+  },
+  {
+    "flowers": 5,
+    "maxFlowers": 5
+  },
+  {
+    "flowers": 2,
+    "maxFlowers": 2
+  }
+]
